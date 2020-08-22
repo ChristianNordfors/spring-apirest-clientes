@@ -3,8 +3,8 @@
 Backend sistema clientes - facturación con Java Spring Boot y MySQL.
 
 ```
-- admin
-- 12345
+user: admin
+pass: 12345
 ```
 
 <https://clientes-facturacion-angular.web.app/login>
